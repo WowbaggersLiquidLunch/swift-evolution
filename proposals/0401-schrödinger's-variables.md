@@ -14,7 +14,7 @@
 
 Much to the dismay of my imaginary cat, most<sup>[_[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)_]</sup> Swift programs are deterministic finite-state machines. That is, with enough information, a person can predict the state of the program at any point in time. Given enough motivation, another person can step through the compiled binary instructions to verify it. This proposal provides an easy path for variables to behave quantum mechanically, and thus make programs unpredictable and totally cool.
 
-Swift-evolution thread: [Discussion thread topic for that proposal](https://forums.swift.org/)
+Swift-evolution thread: [Discussion thread topic for this proposal](https://forums.swift.org/t/schrodingers-variables/47108)
 
 ## Motivation
 
