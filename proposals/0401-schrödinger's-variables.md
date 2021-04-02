@@ -4,9 +4,6 @@
 * Authors: [冀卓疌](https://github.com/WowbaggersLiquidLunch)
 * Review Manager: TBD until observed
 * Status: **Pitched**
-
-*During the review process, add the following fields as needed:*
-
 * Implementation: [not a pull request](https://github.com/WowbaggersLiquidLunch/Quantum)
 * Previous Revision: [`Never`](https://forums.swift.org/404)
 * Previous Proposal:[`Never`](https://forums.swift.org/404)
