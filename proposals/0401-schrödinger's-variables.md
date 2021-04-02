@@ -29,7 +29,7 @@ optionalNumber = 1
 let number = optionalNumber! // number == 1
 ```
 
-Now what if we create a situation so vexing that it's impossible to predict whether an optional value can be force-unwrapped successfully? It won't invalidate the opinion that force-unwrapping is useful, but it should be interesting though. 
+Now what if we can find a way to make it impossible for anyone to predict whether an optional value can be force-unwrapped successfully? It won't invalidate the opinion that force-unwrapping is useful, but it should be interesting though. 
 
 <details>
     <summary>
